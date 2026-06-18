@@ -1,4 +1,4 @@
-# 📞 Telecommunications: Inefficient Operator Detection
+# 📞 Telecomunicaciones: Identificación de Operadores Ineficaces
 
 ## 🎯 Problema Detectado
 
