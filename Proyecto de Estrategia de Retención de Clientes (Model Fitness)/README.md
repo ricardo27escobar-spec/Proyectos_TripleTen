@@ -8,8 +8,6 @@ En este proyecto se analizaron los datos de la cadena de gimnasios **Model Fitne
 
 A través de técnicas de **Análisis Exploratorio de Datos (EDA)**, **Machine Learning Supervisado** y **Clustering**, se desarrolló una estrategia basada en datos para apoyar la toma de decisiones orientadas a mejorar la fidelización de clientes.
 
----
-
 ## 🎯 Objetivos
 
 * Identificar los factores que influyen en la cancelación de clientes.
@@ -17,21 +15,6 @@ A través de técnicas de **Análisis Exploratorio de Datos (EDA)**, **Machine L
 * Construir modelos predictivos para anticipar cancelaciones.
 * Segmentar clientes mediante técnicas de clustering.
 * Proponer recomendaciones de negocio para mejorar la retención.
-
----
-
-## 🛠️ Herramientas Utilizadas
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Machine Learning
-* K-Means Clustering
-
----
 
 ## 🔎 Metodología
 
@@ -64,16 +47,12 @@ Métricas evaluadas:
 * Aplicación de K-Means.
 * Identificación de 5 segmentos de clientes con comportamientos diferenciados.
 
----
-
 ## 📊 Principales Hallazgos
 
 * Los clientes con mayor riesgo de cancelación presentan contratos cortos, menor antigüedad y baja frecuencia de asistencia.
 * La frecuencia de visitas al gimnasio es uno de los factores más relevantes para explicar la permanencia de los usuarios.
 * Los modelos predictivos alcanzaron aproximadamente un **92% de exactitud** y un **ROC AUC cercano a 0.97**, demostrando una alta capacidad para identificar clientes en riesgo.
 * El análisis de clustering permitió identificar segmentos con distintos niveles de compromiso y probabilidad de abandono.
-
----
 
 ## 💡 Recomendaciones
 
@@ -83,8 +62,20 @@ Métricas evaluadas:
 * Incentivar la participación mediante actividades grupales y beneficios de fidelización.
 * Aplicar estrategias diferenciadas según el segmento de clientes identificado.
 
----
-
 ## 🚀 Resultado
 
 El proyecto demuestra cómo el análisis de datos puede utilizarse para anticipar la cancelación de clientes, optimizar estrategias de retención y apoyar la toma de decisiones mediante modelos predictivos y técnicas de segmentación.
+
+## 🛠️ Herramientas Utilizadas
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)&nbsp;
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-4CAF50?style=flat&logo=scikitlearn&logoColor=white)&nbsp;
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
